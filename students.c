@@ -1,4 +1,3 @@
-// 200101031 Yavuz Duman
 #include <stdio.h>
 #include <math.h>
 #define NPEOPLE 20
